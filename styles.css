@@ -1,0 +1,74 @@
+.right-image {
+    float: right;
+    max-width: 100px;
+    margin-left: 10px; 
+}
+
+.right-image1 {
+    float: right;
+    max-width: 100px;
+    margin-left: 10px;  
+}
+
+#project1 img {
+    max-width: 200px; 
+    max-height: 150px;
+    margin-left: 80px; 
+}
+
+
+#project2 img {
+    max-width: 200px; 
+    max-height: 100px;
+    margin-left: 80px; 
+}
+
+
+#project3 img {
+    max-width: 200px; 
+    max-height: 100px;
+    margin-left: 90px; 
+}
+.boxed-list {
+    list-style-type: none;
+    border: 1px solid #ccc; 
+    padding: 10px; 
+    border-radius: 5px; 
+    background-color: #f9f9f9; 
+    display: inline-block; 
+    max-width: 40%; 
+}
+
+main {
+    padding: 20px;
+    margin-bottom: 60px; 
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+}
+
+button {
+    background-color: #acacac; 
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+} 
+
+@media only screen and (max-width: 768px) {
+
+}
+
+
+
